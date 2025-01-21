@@ -1,0 +1,1 @@
+Today I've continue with the Frontend Engineer handbook. I've completed the rest of the chapter 6 (functionality life cycle) and I pudhed it in the repository, so now is live in production ([spanish version](https://www.frontendhandbook.engineer/capitulos/ciclo-de-vida-funcionalidad)).
